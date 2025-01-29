@@ -24,14 +24,14 @@
     </a>
     <a href="https://github.com/bruce/forks">
     <img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
-    <a href="https://github.com/ezaspy/bruce/stargazers">
+    <a href="https://github.com/cyber1of3/bruce/stargazers">
     <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
     </a>
     <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/language-python-yellow" alt="Python">
     </a>
     <img src="https://img.shields.io/badge/subject-DFIR-red" alt="Subject">
-    <img src="https://img.shields.io/github/last-commit/ezaspy/bruce" alt="Last Commit">
+    <img src="https://img.shields.io/github/last-commit/cyber1of3/bruce" alt="Last Commit">
     </a>
     <br><br>
   </p>
@@ -69,7 +69,7 @@ bruce has been created to help fellow digitial forensicators with reading and in
 ### Example
 `python3 bruce.py -e /pcaps/`
 ### Support
-See the [support](https://github.com/ezaspy/bruce/issues) for a list of commands and additional third-party tools to help with preparing images or data for bruce.
+See the [support](https://github.com/cyber1of3/bruce/issues) for a list of commands and additional third-party tools to help with preparing images or data for bruce.
 <br><br>
 
 
@@ -78,10 +78,10 @@ See the [support](https://github.com/ezaspy/bruce/issues) for a list of commands
 
 * String searching
 
-See the [open issues](https://github.com/ezaspy/bruce/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cyber1of3/bruce/issues) for a list of proposed features (and known issues).
 <br>
 
-See the [changes](https://github.com/ezaspy/bruce/issues) for a list of previous changes to bruce.
+See the [changes](https://github.com/cyber1of3/bruce/issues) for a list of previous changes to bruce.
 <br><br>
 
 
@@ -108,9 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-ezaspy - ezaspython@gmail.com
+cyber1of3 - cyber1of3thon@gmail.com
 
-Project Link: [https://github.com/ezaspy/bruce](https://github.com/ezaspy/bruce)
+Project Link: [https://github.com/cyber1of3/bruce](https://github.com/cyber1of3/bruce)
 <br><br>
 
 
@@ -126,13 +126,13 @@ Project Link: [https://github.com/ezaspy/bruce](https://github.com/ezaspy/bruce)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ezaspy/bruce.svg?style=flat-square
-[contributors-url]: https://github.com/ezaspy/bruce/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ezaspy/bruce.svg?style=flat-square
-[forks-url]: https://github.com/ezaspy/bruce/network/members
-[stars-shield]: https://img.shields.io/github/stars/ezaspy/bruce.svg?style=flat-square
-[stars-url]: https://github.com/ezaspy/bruce/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ezaspy/bruce.svg?style=flat-square
-[issues-url]: https://github.com/ezaspy/bruce/issues
-[license-shield]: https://img.shields.io/github/license/ezaspy/bruce.svg?style=flat-square
-[license-url]: https://github.com/ezaspy/bruce/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cyber1of3/bruce.svg?style=flat-square
+[contributors-url]: https://github.com/cyber1of3/bruce/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cyber1of3/bruce.svg?style=flat-square
+[forks-url]: https://github.com/cyber1of3/bruce/network/members
+[stars-shield]: https://img.shields.io/github/stars/cyber1of3/bruce.svg?style=flat-square
+[stars-url]: https://github.com/cyber1of3/bruce/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cyber1of3/bruce.svg?style=flat-square
+[issues-url]: https://github.com/cyber1of3/bruce/issues
+[license-shield]: https://img.shields.io/github/license/cyber1of3/bruce.svg?style=flat-square
+[license-url]: https://github.com/cyber1of3/bruce/master/LICENSE.txt
